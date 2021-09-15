@@ -1,0 +1,12 @@
+body{
+    background-color:gainsboro;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+
+}
+ul{
+    font-size: 30px; 
+}
